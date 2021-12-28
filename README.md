@@ -1,6 +1,6 @@
 # Checking-ACC
 
-	Create a class, with same name as your file name (keep in mine the main class name should be consistent with your file name).
+--Create a class, with same name as your file name (keep in mine the main class name should be consistent with your file name).
 a.	There are two data members: 
 i.	An int variable AccountNumber
 ii.	A static float variable InterestRate
